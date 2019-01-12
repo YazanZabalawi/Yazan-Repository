@@ -6,3 +6,5 @@ Checkup list
 Govern List
 ------------
 - Risks and Issues
+- Action Items
+- Milestone list
